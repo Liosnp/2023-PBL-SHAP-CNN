@@ -1,0 +1,8 @@
+matplotlib
+medmnist
+numpy
+torch
+torchvision
+tqdm
+seaborn
+shap
